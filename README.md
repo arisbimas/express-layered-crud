@@ -1,0 +1,2 @@
+#STACK
+NodeJS, Express, Prisma
